@@ -200,7 +200,7 @@ class MyHomePage extends StatelessWidget {
             top: 7,
           ),
           child: Text(
-            'วันที่ 27 ธ.ค. 2564   • โดย Sunshine ',
+            'วันที่ 27 ธ.ค. 2564   • โดย เชฟนาว พาแซ่บบ ',
             style: GoogleFonts.aleo(
               color: Colors.black54,
               fontSize: 16,
@@ -221,7 +221,7 @@ class MyHomePage extends StatelessWidget {
         backgroundColor: Colors.black26,         
         child: CircleAvatar(           
           radius: 65,           
-          backgroundImage: NetworkImage('https://scontent.furt2-1.fna.fbcdn.net/v/t1.6435-9/57101664_101433414392745_7630786584266145792_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHWr4UFRqleDl77WrYs6IRZge7ad7rWED6B7tp3utYQPo7wAFqvvcbe2LdKrwsWdWKcThopvH7Et3FzgwSV5OeD&_nc_ohc=iBug0IElkS0AX_e1ILX&tn=FcRPC4ZW6hJtaOYY&_nc_ht=scontent.furt2-1.fna&oh=00_AT9Lg2q09SmOZfkcRpHxQnhc9Pv1x32SOUpbNzvdrCEnFQ&oe=61F03A65'),       
+          backgroundImage: NetworkImage('https://scontent.fhdy1-1.fna.fbcdn.net/v/t1.6435-9/125110038_1088744988230784_2778994430909476796_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeFMozgYOJ3axJiUfBFGNjET0KW8PdJFnCDQpbw90kWcINTz0nHwhvPs3HnQ1pLRERtrX1YiC73sfxqtwzxtGflQ&_nc_ohc=rVRA0h-2AJMAX9CB2hz&_nc_ht=scontent.fhdy1-1.fna&oh=00_AT9pN05zCrNNAKE2Wns4RwvINsejoVefqpO8SQNqQMD0tQ&oe=61F127EB'),       
             ),      
           ),     
         );
