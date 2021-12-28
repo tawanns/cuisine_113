@@ -200,7 +200,7 @@ class MyHomePage extends StatelessWidget {
             top: 7,
           ),
           child: Text(
-            'วันที่ 27 ธ.ค. 2564   • โดย เชฟนาว พาแซ่บบ ',
+            'วันที่ 27 ธ.ค. 2564   • โดย Sunshine ',
             style: GoogleFonts.aleo(
               color: Colors.black54,
               fontSize: 16,
